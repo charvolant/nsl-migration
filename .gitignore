@@ -1,0 +1,7 @@
+.classpath
+.project
+nsl-migration-grailsPlugins.iml
+nsl-migration.iml
+/.idea/
+/.slcache/
+/out/
