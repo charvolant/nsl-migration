@@ -5,3 +5,4 @@ nsl-migration.iml
 /.idea/
 /.slcache/
 /out/
+/target/
